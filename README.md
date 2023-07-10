@@ -1,16 +1,13 @@
 # raisedown_dev
 
-A new Flutter project.
+This is a demo implementation of our Cook Up App
 
-## Getting Started
+The main features are an Explore map to find Cook Up's in your preferred area, a Chat interface to contact people and Recipes to get inspired. A personal Profile is also created.
 
-This project is a starting point for a Flutter application.
+# Pre
 
-A few resources to get you started if this is your first Flutter project:
+Follow the install instructions for flutter: https://github.com/flutter/flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Launch
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To launch the app, have the prrequisites installed. Then select a device an run the App.

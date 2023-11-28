@@ -1,6 +1,6 @@
-# raisedown_dev
+# Cook Up App
 
-This is a demo implementation of our Cook Up App
+This is a demo implementation of our Cook Up App.
 
 The main features are an Explore map to find Cook Up's in your preferred area, a Chat interface to contact people and Recipes to get inspired. A personal Profile is also created.
 

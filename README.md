@@ -10,4 +10,4 @@ Follow the install instructions for flutter: https://github.com/flutter/flutter
 
 # Launch
 
-To launch the app, have the prrequisites installed. Then select a device an run the App.
+To launch the app, have the prerequisites installed. Then select a device and run the App.
